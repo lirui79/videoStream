@@ -1,0 +1,5 @@
+rtsp://admin:123cpucpu@192.168.7.108/Streaming/Channels/101?transportmode=unicast&profile=Profile_1
+rtsp://admin:123cpucpu@192.168.7.108/Streaming/Channels/102?transportmode=unicast&profile=Profile_1
+rtsp://admin:123cpucpu@192.168.7.108/Streaming/Channels/103?transportmode=unicast&profile=Profile_1
+rtsp://admin:123cpucpu@192.168.7.108/Streaming/Channels/101?transportmode=unicast&profile=Profile_1
+rtsp://admin:123cpucpu@192.168.7.108/Streaming/Channels/102?transportmode=unicast&profile=Profile_1

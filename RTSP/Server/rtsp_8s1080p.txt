@@ -1,0 +1,8 @@
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://lichao:lichao.123@192.168.7.111/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
